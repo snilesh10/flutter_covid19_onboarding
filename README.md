@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # covid19_onboarding
 
 Flutter onboarding screen created using the Introduction Screen Package.
@@ -12,7 +10,8 @@ Free Icons are used from [DrawKit](https://www.drawkit.io/product/covid-19)
 
 <div align="center">
  
-![image]()
+![image](https://github.com/snilesh10/flutter_covid19_onboarding/blob/main/assets/screenshots/screen-1.jpeg)
+![image](https://github.com/snilesh10/flutter_covid19_onboarding/blob/main/assets/screenshots/screen-2.jpeg)
 
 </div>
 
