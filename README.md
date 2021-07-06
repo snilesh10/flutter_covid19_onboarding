@@ -1,6 +1,8 @@
 # covid19_onboarding
 
-A new Flutter project.
+Flutter onboarding screen created using the Introduction Screen Package.
+
+Free Icons are used from [DrawKit](https://www.drawkit.io/product/covid-19)
 
 ## Getting Started
 
