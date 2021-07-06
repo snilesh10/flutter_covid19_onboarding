@@ -1,4 +1,4 @@
-# covid19_onboarding
+<h3 align="center">Covid19 Onboarding using Introduction Screen Package</h3>
 
 Flutter onboarding screen created using the Introduction Screen Package.
 
